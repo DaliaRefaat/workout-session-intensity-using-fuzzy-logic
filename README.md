@@ -1,7 +1,7 @@
 # workout-session-intensity-using-fuzzy-logic
 Fuzzy Logic-Based Workout Session Intensity Calculator
 
-This Python script employs fuzzy logic to determine an appropriate workout session intensity based on input parameters such as heart rate, sleep quality, and energy level. Fuzzy logic allows for a more human-like decision-making process by considering the uncertainty and ambiguity in these inputs.
+This Python script employs fuzzy logic to determine an appropriate workout session intensity based on input parameters such as heart rate, sleep quality, and energy level. Fuzzy logic allows for a more human-like decision-making process by considering the uncertainty and ambiguity in these inputs, It was mainly used for HUAWEI WATCH FIT watch as a future project 
 
 Features:
 Imaginary Dataset Generation:
