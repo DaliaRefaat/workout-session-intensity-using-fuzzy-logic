@@ -26,6 +26,8 @@ Example Usage:
 Includes a function (make_assumption_and_plot) for making assumptions about heart rate, sleep quality, and energy level, and visualizing the resulting workout routine intensity.
 Example Usage:
 
+![visualizations](https://github.com/DaliaRefaat/workout-session-intensity-using-fuzzy-logic/assets/125277143/c2bb0018-6b34-41ba-9ef7-db60f35b07e7)
+
 # Example assumption and plot
 make_assumption_and_plot(120, 1, 10)
 
